@@ -1,0 +1,120 @@
+Reunião sobre CRM chamados TI 	16/02/2024
+----
+
+validar por keyuser para abrir chamdo de sitema, e ou com aprovação.
+Quando não aprovado o chamado aberto, volta para o solicitne com feedback, gravar os dados normal.
+
+
+Todoas extensoes de excel, texto, csv.
+cololcar legenda dentro do campo
+
+verificar sobre cadastro dos tervieor.
+
+verificar sobre a ficha de atendimento a forma como está sendo grvaada via banco.
+
+botao encaminhado para terceiros.
+os chamados em atendimento não pode aparecer nesse botao quando estiver para terceiros.
+
+
+trazer em baixo de cada botão totalizadores de cada chamado.
+
+colocar legenda de historico de chamdso, quantidade total.
+
+colocar regra de veririficação de chamdos concluidos, par anão abrir [a finaliar] verificar 1
+
+colocar na gpo atalho na area de trabalho acesso ao sistema.
+
+
+
+
+-------------------------------------
+Sistema de chamados:
+
+- A mensagem:
+Seu chamado está nesse momento sendo atendido por um atendente! (Trocar atendente pelo nome do Analista) Caso não consiga pegar o nome, então trocar atendente por Analista.
+Em breve sera feito um retorno sobre o atendimento! (Incluir acento agudo no será).
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Vamos Criar usuários para todos os colaboradores, (assim como enviam e-mails para nós). Porém aplicar a regra de somente keyuser poder abrir chamado para Sistemas ou ao abrir chamado para Sistemas, ser direcionado para o responsável do setor aprovar.
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Histórico de chamados, revisar os filtros, consultar por filtro de período de fechamento. (Não está trazendo resultados).
+
+[ FEITO ] precisar ser modificado via banco as datas de conclusões na base de produção
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Permitir incluir mais de 1 anexo na abertura do chamado.
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Incluir os prestadores Unisystem, Global-MT, Pontech tecnologia, Rondofone e outros terceiros.
+
+[  ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Nos e-mails do chamado encaminhado para Maxlogic, levar o nome do usuário que abriu a demanda.
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Deixar o banco organizado para conseguirmos linkar ao Power B.I.
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- incluir no painel de gestor a caixinha de status ENCAMINHADOS.
+O em atendimento para terceiro é encaminhado.
+
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Incluir totalizadores em cada painel (Total de cada status ativo).
+
+[ FEITO ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+PROXIMAS DEMANDAS A FAZER -->
+
+
+- Quebrar a categoria sistemas na abertura de chamados
+Erro, Melhoria, Duvida, Treinamento, Projetos, 
+
+[  ]
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Quebrar a categoria BI na abertura de chamados.
+
+
+[  ]
+
+
+========================
+troca de operador.
+Já existe um registro de atendimento na tabela chamados_andamento quando abriu chamado.
+O sistema registra o movimento da troca de operador.
+Após registro o sistema pega o registro de andamento e atualiza com data fim, status igual a F e calcula o tempo do atendimento.
+Depois realiza um novo registro na tabela chamados_andamento com novo atendente.
+E por fim registra o atendente na tabela chamados
+
+
+
+
+
+

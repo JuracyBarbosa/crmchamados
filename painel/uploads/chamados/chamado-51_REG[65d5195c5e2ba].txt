@@ -1,0 +1,14 @@
+Início do processamento dos encargos de 4 funcionário(s).
+
+System.Exception: Ocorreu o seguinte erro ao executar a fórmula 'ENC003'
+A fórmula ENC003 não pode ser executada! ORA-01841: ano (completo) deve estar entre -4713 e +9999 e não pode ser zero
+   em RM.Fop.Utils.FopFormulaObj.ExecuteEncargo(Int32 CodColigada, String Chapa, String CodFormula, String CodUsuario, Boolean usaCache, String valorVariavelPar, Object ownerData)
+   em RM.Fop.Dominio.CalcularEncargoFormula.Calcular(Funcionario funcionario, Encargo encargo, FuncEncargo& funcEncargo)
+   em RM.Fop.Dominio.ServicoGeracaoEncargos.GerarEncargo(Funcionario funcionario, Encargo encargo, Boolean considerarRateioFixoFuncionario, String variavelPar, String codigoQuebraCGC, Boolean periodoEspecifico, FopParams fopParams, Decimal salarioMinimo, Dictionary`2 listaEncargosFuncionario)
+   em RM.Fop.Rotinas.FopGeracaoEncargosMod.ProcessarEncargosSelecionados(FopParamsGeracaoEncargos parametros, Boolean isSimulacao, Boolean considerarRateioFixoFuncionario, ServicoGeracaoEncargos servicoEncargo, IList`1 listaEncargos, String variavelPAR, Funcionario funcionario, Boolean& cabecalhoLogEscrito, IList`1 listaFuncEncargoFuncionario, Boolean& temEncargoAtivo, Boolean& mensagemLogProvisao, Boolean gerouHstProvisao, Dictionary`2 resultadoFormulaSelecao, Boolean& cabecalhoLogDebug, Boolean carregarFichaFinanceira, Int16[] periodos, Boolean periodoEspecifico, String codigoQuebraCGC, Boolean& teveEncargoProcessado, LogType& logFunc, FopParams fopParams)
+   em RM.Fop.Rotinas.FopGeracaoEncargosMod.GerarEncargos(FopParamsGeracaoEncargos parametros, Boolean isSimulacao, Boolean considerarRateioFixoFuncionario)
+Foram executados 0 funcionários de 4 elegíveis.
+0 funcionários de 4 tiveram encargos processados.
+4 funcionários de 4 não tiveram encargos processados.
+
+Término do processamento.

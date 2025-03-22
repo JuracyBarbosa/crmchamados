@@ -1,0 +1,261 @@
+Registro 0200: produto 74287 - FRETE COMERCIAL SEMENTES SOJA não possui informação do Código de Serviço
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1102 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1117 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1114 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1131 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1131 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1140 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1153 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1153 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1173 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1106 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1130 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1136 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1141 , Produto: SEMENTE DE SOJA FORTENZA ELITE LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1168 , Produto: SEMENTE DE SOJA FORTENZA ELITE LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1168 , Produto: SEMENTE DE SOJA FORTENZA ELITE LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1168 , Produto: SEMENTE DE SOJA FORTENZA ELITE LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1181 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1181 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1186 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1098 , Produto: SEMENTE DE SOJA AVICTA COMPLETO + GRAFITE 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1120 , Produto: SEMENTE DE SOJA FORTENZA ELITE + GRAFITE 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1139 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1187 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1187 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1187 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1192 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1192 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1192 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1192 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1192 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1192 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1099 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1124 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1126 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1126 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1126 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1135 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1135 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1151 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1155 , Produto: SEMENTE DE SOJA AVICTA COMPLETO LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1155 , Produto: SEMENTE DE SOJA AVICTA COMPLETO LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1155 , Produto: SEMENTE DE SOJA AVICTA COMPLETO LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1164 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1165 , Produto: SEMENTE DE ALGODAO AVICTA COMPLETO DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1165 , Produto: SEMENTE DE ALGODAO AVICTA COMPLETO DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1165 , Produto: SEMENTE DE ALGODAO AVICTA COMPLETO DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1165 , Produto: SEMENTE DE ALGODAO AVICTA COMPLETO DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1165 , Produto: SEMENTE DE ALGODAO AVICTA COMPLETO DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1169 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1180 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1184 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1108 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1108 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1103 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1118 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1118 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1118 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1113 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1113 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1113 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1113 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1127 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1127 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1127 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1127 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1128 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1133 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1133 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1157 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1156 , Produto: SEMENTE DE SOJA AVICTA COMPLETO LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1156 , Produto: SEMENTE DE SOJA AVICTA COMPLETO LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1161 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1177 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1177 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1175 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1185 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1185 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1185 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1188 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1188 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1188 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1100 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 + GRAFITE 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1107 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1104 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1104 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1104 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1125 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1129 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1138 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1138 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1152 , Produto: SEMENTE DE SOJA AVICTA COMPLETO + GRAFITE 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1152 , Produto: SEMENTE DE SOJA AVICTA COMPLETO + GRAFITE 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1154 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1170 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1105 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1179 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1193 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1193 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1115 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 DEFENSE  
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1119 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 + GRAFITE 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1137 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1167 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1171 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1171 , Produto: SEMENTE DE SOJA 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1178 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1178 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1178 , Produto: SEMENTE DE SOJA FORTENZA DUO 60 LLI 
+Registro C170 -> Código da Conta Contabil não informada para o Documento(S): 1190 , Produto: SEMENTE DE SOJA 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 4339 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 4340 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 92953 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93152 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93795 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95224 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95223 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1571 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 91927 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 91925 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 92807 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93430 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1850 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95222 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95512 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 4322 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 91379 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 92853 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93429 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93428 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 94147 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 91924 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1862 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95353 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95349 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 91922 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93594 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93893 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1795 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 94423 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1900 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1611 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93150 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93668 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 94148 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95348 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95350 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1725 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 93895 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1844 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 95352 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1580 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1598 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1849 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro D100 -> Código da Conta Contabil não informada para o Documento: 1841 
+Registro D101 -> Código da Conta Contabil não informada para o CST PIS: 50 
+Registro D101 -> Código da Conta Contabil não informada para o CST COFINS: 50 
+Registro M105: existem produtos, código tipo de lançamento, CFO e CST('50') sem vinculo com o Código da Natureza da Base de Cálculo de Crédito na tela Vincula Código de Crédito e Contribuição para a PIS e COFINS;
+Registro M400 -> Código da Conta Contabil não informada para o CST PIS: 06 
+Registro M410 -> Código da Conta Contabil não informada para o CST PIS: 06 
+Registro M505: existem produtos, código tipo de lançamento, CFO e CST('50') sem vinculo com o Código da Natureza da Base de Cálculo de Crédito na tela Vincula Código de Crédito e Contribuição para a PIS e COFINS;
+Registro M800 -> Código da Conta Contabil não informada para o CST COFINS: 06 
+Registro M810 -> Código da Conta Contabil não informada para o CST COFINS:  
+- Existem saldo de créditos apuração sem utilização há mais de 4 ano para a empresa: TROPICAL AGRICOLA LTDA
+ -> PIS - Mês/Ano Apuração: 082020 - Tipo Crédito: 101 - Saldo: 291,59
+ -> COFINS - Mês/Ano Apuração: 082020 - Tipo Crédito: 101 - Saldo: 1343,07
+ -> PIS - Mês/Ano Apuração: 092020 - Tipo Crédito: 101 - Saldo: 5247,25
+ -> COFINS - Mês/Ano Apuração: 092020 - Tipo Crédito: 101 - Saldo: 24169,15
+ -> PIS - Mês/Ano Apuração: 102020 - Tipo Crédito: 101 - Saldo: 4516,38
+ -> COFINS - Mês/Ano Apuração: 102020 - Tipo Crédito: 101 - Saldo: 20802,80
+ -> COFINS - Mês/Ano Apuração: 112020 - Tipo Crédito: 101 - Saldo: 20016,07
+ -> PIS - Mês/Ano Apuração: 112020 - Tipo Crédito: 101 - Saldo: 4345,67
+ -> COFINS - Mês/Ano Apuração: 122020 - Tipo Crédito: 101 - Saldo: 7570,27
+ -> PIS - Mês/Ano Apuração: 122020 - Tipo Crédito: 101 - Saldo: 1643,57

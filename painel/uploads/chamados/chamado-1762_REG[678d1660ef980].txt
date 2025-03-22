@@ -1,0 +1,52 @@
+Demandas do sistema CRM de chamados
+-------------
+
+
+Abertura de chamados (Imediato)
+Critérios: Impedimento de processo (Autorização de NFe, Impedimento de embarque, Impactos financeiros).
+Mensagem: "Seu chamado será analisado pela equipe de T.I, podendo ser reclassificado, caso não esteja de acordo com o critério.
+
+Abertura de chamados (Urgente)
+Critérios: Curto prazo para atendimento, entrega de informações para gestão ou diretoria, não existe rotina no Sistema.
+Mensagem: "Seu chamado será analisado pela equipe de T.I, podendo sofrer alterações de status para NORMAL, caso não esteja de acordo com o   critério.
+
+Redefinição de prioridade de chamados. (Guardar histórico da alteração, visão antes e depois.
+
+
+----------------------------------
+Alterar a sequencia dos botões do painel:
+Aberto 1 - Atendendo - Encaminhado 2 - Em Atendimento 3 - Concluído 4 - Aguardando retorno 8
+
+[ FEITO ]
+----------------------------------
+
+Quando chamado for encaminhado direto, preencher nova coluna de id do atribuidor, quando o chamado for concluído e ele voltar, volta para o atribuidor.
+Criar uma regra para que quando o chamado concluído for retornado, o sistema pega um atendente que não seja terceirizado e salva. Observação: não colocar para Leandro.
+
+----------------------------------
+Quando o solicitante responder vai para um novo status, Aguardando retorno. criar uma regra para separar o que é do solicitante e o que é o atendente. Quando solicitante estiver aguardando o atendente fica em atendimento, quando atendente está aguardando o solicitante fica em aguardando retorno.
+Observação: ver uma ideia de alterar a cor de fundo do chamado.
+
+----------------------------------
+Ajustar regra de atualizar os chamados concluídos para finalizados, criar regra para desconsiderar sábado e domingo.
+
+[ FEITO ]
+----------------------------------
+Quando for abrir chamado não deixar o sistema duplica, de alguma forma na hora que vão abrir o chamado, o sistema abre mais de 1.
+----------------------------------
+
+
+Futuras melhorias.
+----------------------------------
+Quando formos encaminhar/atribuir chamados para terceiros, permitir inserir mais e-mails, anexo, e editar complemento.
+
+----------------------------------
+Melhorar o modo como o sistema anexa arquivos, conseguir id adicionando arquivos.
+
+----------------------------------
+
+
+
+Ativar dia 10
+
+

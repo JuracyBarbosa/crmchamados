@@ -1,0 +1,23 @@
+select c.nome_cliente,
+       c.cgc_cpf,
+       c.digito_cpf,
+       c.rg,
+       b.cod_banco,
+       b.descricao_banco,
+       a.cod_agencia,
+       a.descricao_agencia,
+       cb.tipo_conta,
+       cb.conta
+  from clientes                c,
+       cliente_dados_bancarios cb,
+       bancos                  b,
+       agencias                a,
+       clientes_funcionarios   cf
+ where c.seq_pla_cliente = cb.seq_pla_cliente
+   and c.seq_pla_cliente = cf.seq_pla_cliente
+   and b.seq_pla_banco = a.seq_pla_banco
+   and cb.seq_pla_agencia = a.seq_pla_agencia
+   and cb.ativo = 'S'
+   and c.tipo_cliente = 'F'
+   and cb.banco_principal = 'S'
+   and cf.data_demissao is null

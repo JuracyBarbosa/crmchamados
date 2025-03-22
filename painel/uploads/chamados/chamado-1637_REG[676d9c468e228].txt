@@ -1,0 +1,25 @@
+Ocorreu erro que impediu a execução do processo. System.AggregateException: Um ou mais erros. ---> RM.Lib.RMSValidateException: Requisição inválida.
+   em RM.Fop.Lib.FopHttpClient.<HandleWithNonSuccess>d__10.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RM.Fop.Lib.FopHttpClient.<Send>d__9`1.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RM.Fop.Lib.FopHttpClient.<Send>d__7`2.MoveNext()
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em RM.Fop.Esocial.JSONHelper.GetResponseFromRequest(String url, String method, String userName, String userPassword, String content, Encoding encoding, String contentType, Int32 attempts, String token, TAFHttpClientPackageInfo clientPackageInfo)
+   em RM.Fop.Esocial.JSONHelperMiddleware.Post(String servidor, String porta, String usuario, String senha, String jsonContent, Boolean usarHttps, String token, TAFHttpClientPackageInfo clientPackageInfo)
+   em RM.Fop.Esocial.FopEsocialIntegrarMiddlewareMod.Enviar(Int16 codColigada, String codUsuario, List`1 eventosList, IRMSExecProgress progress, IRMSServerLog log, String ticketCode, Int32& numErros, Int32& totalIntegrado, Boolean& possuiAvisos, Boolean& possuiEventosForaDoPrazo)
+---> (Exceção Interna N° 0) RM.Lib.RMSValidateException: Requisição inválida.
+   em RM.Fop.Lib.FopHttpClient.<HandleWithNonSuccess>d__10.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RM.Fop.Lib.FopHttpClient.<Send>d__9`1.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RM.Fop.Lib.FopHttpClient.<Send>d__7`2.MoveNext()<---
+

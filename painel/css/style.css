@@ -1,0 +1,1166 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: rgb(122, 122, 122) rgb(77, 77, 77);
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Open Sans";
+}
+
+:root {
+	--menu-width: 300px; /* Define a largura fixa do menu */
+}
+
+html, body {
+	height: 100%;
+	background: rgb(225, 225, 225);
+}
+
+body {
+	display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+	padding: 10px 20px;
+	background: #4D4D4F;
+	display: flex;
+	position: relative;
+	justify-content: space-evenly;
+}
+
+.container {
+	display: flex;
+    /* flex-grow: 1;
+    min-height: 100%; Garante que a área principal ocupe o espaço */
+	flex: 1;
+}
+
+.container-filtros {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	gap: 20px;
+	width: 100%;
+	padding: 20px;
+}
+
+.container-select {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 20px;
+}
+
+.container-btn-brilho {
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.menu {
+	width: var(--menu-width); /* Largura fixa */
+    background: #898989; /* Cor de fundo do menu */
+    overflow-y: auto; /* Ativa a rolagem vertical */
+    overflow-x: hidden; /* Evita rolagem horizontal */
+    height: 100vh; /* Garante que o menu ocupe a altura total da janela */
+    position: fixed; /* Mantém o menu fixo na lateral */
+    top: 0;
+    left: 0;
+    padding: 10px; /* Espaçamento interno */
+    z-index: 1000; /* Garante que o menu fique sobreposto ao conteúdo */
+}
+
+.menu_wraper {
+	width: 100%;
+}
+
+.menu_btn {
+	cursor: pointer;
+	font-size: 23px;
+	color: white;
+}
+
+.menu nav ul {
+	list-style: none;
+}
+
+.menu nav ul li a {
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 4px 0;
+	font-weight: 300;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.menu li {
+	margin-top: 6px;
+}
+
+.menu_active {
+	background: linear-gradient(45deg, #252525, transparent);
+}
+
+.content {
+	width: calc(100% - var(--menu-width));
+	/* flex-grow: 1; Permite que o conteúdo cresça para ocupar o espaço restante */
+    padding: 10px;
+    background: #F0F0F0;
+	position: relative;
+	left: var(--menu-width);
+	transition: left 0.3s ease, width 0.3s ease; /* Adiciona transições suaves */
+}
+
+footer {
+	background: #9595952b;
+	text-align: center;
+	padding: 15px 0;
+	margin-top: auto;
+	/* position: fixed;
+	width: calc(100% - var(--menu-width));
+	left: var(--menu-width);
+	bottom: 0; */
+}
+
+footer.fixed {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+footer p {
+	color: white;
+	text-align: center;
+	font-weight: 400;
+	font-size: 16px;
+}
+
+
+/*Pagina Login*/
+
+.box_login {
+	box-shadow: 10px 10px 5px #888888;
+	max-width: 600px;
+	width: 95%;
+	padding: 60px 2%;
+	background: white;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.box_login h2 {
+	text-align: center;
+	font-size: 19px;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin: 10px 0;
+	color: black;
+}
+
+.box_login input[type=text],
+.box_login input[type=password] {
+	width: 100%;
+	height: 40px;
+	border: 1px solid #CCC;
+	padding-left: 8px;
+	margin-top: 8px;
+}
+
+.box_login input[type=submit] {
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	margin-top: 10px;
+	font-size: 14px;
+	background: dimgray;
+	color: white;
+	border: 0px;
+}
+
+.erro_box {
+	width: 100%;
+	padding: 4px 2%;
+	text-align: center;
+	background: #F75353;
+	color: white;
+	font-size: 15px;
+}
+
+.login-home {
+	background-color: dimgray;
+	padding: 10.5px 34px;
+	color: white;
+	font-size: 14px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/*Fim Pagina Login*/
+
+/*Painel de controle*/
+
+.clear {
+	clear: both;
+}
+
+.center {
+	padding: 0 2%;
+	margin: 0 auto;
+}
+
+.box_usuario {
+	text-align: center;
+}
+
+.avatar_usuario {
+	text-align: left;
+	display: inline-block;
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	border: 3px solid #2F3D42;
+}
+
+.avatar_usuario i {
+	position: relative;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 50px;
+	color: #2F3D42;
+}
+
+.imagem_usuario {
+	display: inline-block;
+	width: 130px;
+	height: 130px;
+	position: relative;
+	border: 3px solid #2F3D42;
+	border-radius: 50%;
+}
+
+.imagem_usuario img {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+
+.loggout {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-around;
+	flex-direction: row;
+	gap: 20px;
+}
+
+.loggout a {
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+}
+
+.loggout a>span {
+	font-size: 17px;
+	text-decoration: none;
+}
+
+.nome_usuario {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.nome_usuario p {
+	color: white;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+/*Conteudo Principal do Painel*/
+
+.w100 {
+	width: 100%;
+}
+
+.w50 {
+	width: 49%;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.box_content {
+	background: white;
+	padding: 30px;
+	margin-bottom: 20px;
+	box-shadow: inset 0 0 1em rgb(111, 111, 111);
+}
+
+.box_content h2 {
+	font-weight: 300;
+	font-size: 23px;
+}
+
+/* Tabelas */
+
+.wraper_table {
+	overflow-x: auto;
+}
+
+table {
+	font-weight: 300;
+	min-width: 900px;
+	width: 100%;
+	margin: 20px 0;
+	border-collapse: collapse;
+}
+
+table tr:nth-of-type(1) {
+	background: #0091EA;
+	color: white;
+}
+
+table tr {
+	border-bottom: 1px solid #CCC;
+}
+
+table tr {
+	color: #555;
+}
+
+table td {
+	padding: 8px;
+}
+
+table a.btn {
+	text-decoration: none;
+	padding: 4px 6px;
+	color: white;
+	font-size: 13px;
+}
+
+a.btn.edit {
+	background: #F4B03E;
+}
+
+a.btn.delete {
+	background: #E05C4E;
+}
+
+a.btn.order {
+	background: #0091EA;
+}
+
+/*Paginação*/
+
+.paginacao {
+	margin: 20px 0;
+	text-align: center;
+}
+
+.paginacao a {
+	font-size: 14px;
+	margin: 0 8px;
+	display: inline-block;
+	padding: 3px 4px;
+	border: 1px solid #CCC;
+	text-decoration: none;
+	color: #666;
+	border-radius: 5px;
+}
+
+.paginacao a.page_selected {
+	background: #4CAF50;
+	;
+	border-radius: 5px;
+}
+
+.itens_menu {
+	margin-top: 30px;
+}
+
+.itens_menu h2 {
+	text-align: left;
+	font-weight: normal;
+	font-size: 17px;
+	background: darkred;
+	color: white;
+	padding: 8px;
+}
+
+
+/*Slide*/
+
+.prev_img {
+	width: 50px;
+	height: 50px;
+}
+
+/*Tablea Responsive*/
+
+.table_responsive {
+	font-weight: 300;
+	margin: 20px auto;
+}
+
+.table_responsive .row:nth-of-type(1) {
+	font-weight: bold;
+	background: #00BFA5;
+	padding: 10px;
+	color: white;
+}
+
+.table_responsive .row {
+	color: #777;
+	padding: 8px;
+	border-bottom: 1px solid #CCC;
+}
+
+.col {
+	float: left;
+	width: 50%;
+}
+
+.box_content form {
+	margin: 18px 0;
+}
+
+.box_content form label {
+	font-size: 17px;
+	font-weight: 400;
+	color: black;
+	display: block;
+}
+
+.box_content .form_group {
+	margin: 15px 0;
+}
+
+.box_content .form_group_button {
+	margin: 20px 0;
+	display: ruby-text;
+}
+
+.box_content .form_group_radio {
+	margin: 15px 0;
+	float: left;
+	position: relative;
+	width: 33.3%;
+}
+
+.box_content .form_group_checkbox {
+	list-style: none;
+	padding: 20px;
+}
+
+.box_content .form_group_checkbox li {
+	margin-bottom: 10px;
+}
+
+.box_content form input[type=text],
+.box_content form input[type=password] {
+	margin-top: 8px;
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+	width: 100%;
+	height: 40px;
+	border: 1px solid #CCC;
+	padding-left: 8px;
+}
+
+.box_content form input[name=periodofechamento2],
+.box_content form input[name=periodofechamento1],
+.box_content form input[name=periodoabertura2],
+.box_content form input[name=periodoabertura1],
+.box_content form input[name=dtabertura],
+.box_content form input[name=dtfechamento] {
+	margin-top: 8px;
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+	height: 40px;
+	border: 1px solid #CCC;
+	padding-left: 8px;
+}
+
+.box_content form textarea {
+	margin-top: 8px;
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+	width: 100%;
+	height: 150px;
+	border: 1px solid #CCC;
+	padding: 8px;
+	resize: vertical;
+}
+
+.box_content div textarea {
+	margin-top: 8px;
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+	width: 100%;
+	height: 130px;
+	border: 1px solid rgb(160, 160, 160);
+	padding: 8px;
+	resize: vertical;
+}
+
+.box_content form select {
+	margin-top: 8px;
+	font-size: 16px;
+	font-weight: normal;
+	color: black;
+	width: 100%;
+	height: 40px;
+	border: 1px solid #CCC;
+	padding-left: 8px;
+}
+
+.box_content form input[type=file] {
+	margin-top: 8px;
+	border: 1px solid #CCC;
+	width: 100%;
+	padding: 8px;
+}
+
+.box_content form input[type=submit] {
+	width: 100px;
+	height: 40px;
+	cursor: pointer;
+	font-size: 16px;
+	background: #00BFA5;
+	color: white;
+	border: 0;
+}
+
+.form_group form a {
+	padding: 9px 11px;
+	text-decoration: none;
+	cursor: pointer;
+	margin-top: 10px;
+	font-size: 16px;
+	background: #00BFA5;
+	color: white;
+}
+
+/*Box de alert*/
+
+.box_alert {
+	text-align: center;
+	width: 100%;
+	padding: 8px 0;
+}
+
+.sucesso {
+	background: #A5D6A7;
+	color: white;
+}
+
+.info {
+	background: gray;
+	color: white;
+}
+
+.aviso {
+	background: #ffd000;
+	color: black;
+}
+
+.erro {
+	background: #F75353;
+	color: white;
+}
+
+.form_group_login label {
+	font-size: 13px;
+	font-weight: 300;
+	color: black;
+	padding-right: 6px;
+}
+
+form .form_group_login:nth-of-type(2) {
+	position: relative;
+	top: 10px;
+}
+
+/*painel chamado*/
+
+.grade_chamado {
+	border: solid 1px;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+.grade_chamado label {
+	font-weight: 400;
+}
+
+.grade_chamado div {
+	margin: 10px 0;
+	font-weight: 300;
+}
+
+.grade_chamado div label.chnota {
+	float: right;
+	padding: 0px 20px;
+	font-weight: bold;
+}
+
+.grade-ch-resposta-at {
+	background-color: rgb(202, 255, 235);
+	font-size: 14px;
+	padding: 10px 20px;
+	box-shadow: inset 0 0 1em rgb(212, 212, 212);
+}
+
+.grade-ch-resposta-so {
+	background-color: rgb(221, 255, 253);
+	font-size: 14px;
+	padding: 10px 20px;
+	box-shadow: inset 0 0 1em rgb(212, 212, 212);
+}
+
+.grade-ch-anexo {
+	background-color: rgba(160, 176, 179, 0.712);
+	font-size: 14px;
+	padding: 15px 20px;
+	box-shadow: inset 0 0 1em rgb(212, 212, 212);
+}
+
+.btn_editar_chamado {
+	background: #003b33;
+	color: white;
+	text-decoration: none;
+	padding: 7px 14px;
+	text-align: center;
+	display: inline-block;
+}
+
+.btn_open_img_chamado {
+	background-color: white;
+	color: black;
+	text-decoration: none;
+	padding: 1px 16px;
+	text-align: center;
+	display: inline-block;
+	border: 2px solid #003b58;
+}
+
+.btn_open_img_chamado:hover,
+.btn_open_img_chamado:active {
+	background-color: rgb(31, 132, 150);
+	color: white;
+}
+
+.btn-acao-ch-container {
+	display: flex;
+	gap: 10px;
+	justify-content: flex-start;
+}
+
+.ch-sts-btn button {
+	width: 6vw;
+	height: 40px;
+	display: inline-block;
+	background-color: white;
+	border: 2px solid #4CAF50;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 0.9rem;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.ch-sts-btn button:hover {
+	background-color: darkgreen;
+	color: white;
+	transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.div_group select {
+	width: 80%;
+	height: 35px;
+	border: 1px solid #CCC;
+}
+
+.div_group input {
+	width: 80%;
+	height: 35px;
+	padding: 10px;
+	border: 1px solid #CCC;
+}
+
+.btn-brilho {
+	position: relative;
+	background: #333;
+	color: #ccc;
+	width: 10%;
+	height: 40px;
+	border: 0;
+	font-size: 14px;
+	border-radius: 4px;
+	transition: .6s;
+	overflow: hidden;
+
+	&:focus {
+		outline: 0;
+	}
+
+	&:before {
+		content: '';
+		display: block;
+		position: absolute;
+		background: rgba(255, 255, 255, 0.5);
+		width: 60px;
+		height: 100%;
+		left: 0;
+		top: 0;
+		opacity: .5;
+		filter: blur(30px);
+		transform: translateX(-100px) skewX(-15deg);
+	}
+
+	&:after {
+		content: '';
+		display: block;
+		position: absolute;
+		background: rgba(255, 255, 255, 0.2);
+		width: 30px;
+		height: 100%;
+		left: 30px;
+		top: 0;
+		opacity: 0;
+		filter: blur(5px);
+		transform: translateX(-100px) skewX(-15deg);
+	}
+
+	&:hover {
+		background: #338033;
+		cursor: pointer;
+
+		&:before {
+			transform: translateX(300px) skewX(-15deg);
+			opacity: 0.6;
+			transition: .7s;
+		}
+
+		&:after {
+			transform: translateX(300px) skewX(-15deg);
+			opacity: 1;
+			transition: .7s;
+		}
+	}
+}
+
+.descricao-chamado {
+	background-color: rgb(250, 250, 250);
+	padding: 20px 20px;
+	/* box-shadow: 3px 3px 2px rgba(37, 37, 37, 0.30); */
+	box-shadow: inset 0 0 1em rgb(212, 212, 212);
+}
+
+.contagem-horas-chamado {
+	float: right;
+	color: #003b33;
+}
+
+/*Painel do usuário - home*/
+
+.box_painel {
+	margin-top: 16px;
+	padding: 0 15px;
+}
+
+.box_painel_single {
+	float: left;
+	position: relative;
+	width: 33.3%;
+	background: #365674;
+	border: 5px solid white;
+}
+
+.box_painel .box_painel_single:nth-of-type(2) {
+	background: #b4901b;
+}
+
+.box_painel .box_painel_single:nth-of-type(3) {
+	background: #85c081;
+}
+
+.box_painel_wraper {
+	padding: 10px 20px;
+	text-align: left;
+	color: white;
+}
+
+.box_painel_wraper h2 {
+	font-size: 28px;
+	text-align: center;
+}
+
+.box_painel_wraper p {
+	padding: 10px 0;
+}
+
+/*Painel exibição detalhado de chamados*/
+
+.box_painel_ch_single {
+	float: left;
+	position: relative;
+	width: 100%;
+	background: gray;
+	border: 5px solid white;
+	display: flex;
+	justify-content: center;
+}
+
+.box_painel .box_painel_ch_single:nth-of-type(2) {
+	background: #b4901b;
+}
+
+.box_painel .box_painel_ch_single:nth-of-type(3) {
+	background: #85c081;
+}
+
+.box_painel_ch_wraper {
+	padding: 10px 20px;
+	text-align: left;
+}
+
+.box_painel_ch_wraper h2 {
+	font-size: 22px;
+	text-align: center;
+	font-weight: 400;
+	padding-bottom: 20px;
+}
+
+.box_painel_ch_wraper p {
+	padding: 10px 0;
+	font-weight: 300;
+}
+
+.painel-list-chamados {
+	float: left;
+	padding: 0px 15px 15px;
+	position: relative;
+}
+
+.painel-list-chamados span {
+	font-weight: 400;
+}
+
+.painel-list-chamados label {
+	font-weight: 500;
+}
+
+/* Edit Chamados */
+
+.edit-chamado label {
+	font-weight: 500;
+}
+
+.edit-chamado span {
+	font-weight: 300;
+}
+
+.form-chamado {
+	margin: 12px 0px;
+}
+
+.form-group-chamado {
+	width: 100%;
+	max-width: 1200px;
+	margin: 20px auto;
+	box-shadow: 0 2px 10px rgb(0 0 0 / 50%);
+	border-radius: 10px;
+}
+
+.form-group-chamado span{
+	padding-top: 20px;
+	font-weight: 500;
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
+.form-chamado-radio {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 15px;
+	padding: 20px;
+	margin: 0;
+	list-style: none;
+}
+
+.form-chamado-radio li{
+	display: flex;
+	align-items: center;
+	word-wrap: break-word;
+}
+
+.form-chamado-radio input[type="radio"] {
+	width: 11px;
+	transform: scale(1.5);
+	margin-right: 10px;
+}
+
+.form-chamado-nota {
+	float: left;
+	text-align: center;
+	padding: 0px 5px;
+}
+
+.nota-fc {
+	font-size: xxx-large;
+}
+
+.form-chamado span {
+	margin-right: 20px;
+}
+
+.edit-chamado .form-chamado:nth-of-type(5) {
+	text-align: center;
+}
+
+.btn-atualiza {
+	text-align: center;
+	padding: 20px;
+}
+
+/* Painel de historico de chamados */
+
+.box-painel-historico {
+	float: left;
+	position: relative;
+	width: 28%;
+	border: 5px solid white;
+}
+
+
+/* Botões voltar */
+
+.btn-voltar {
+	background-color: #00BFA5;
+	border: 0;
+	color: white;
+	padding: 11px 24px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 14px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+/* FIM */
+
+/* Modal */
+.modal {
+	display: none; /* Oculto por padrão */
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	justify-content: center;
+	align-items: center;
+	z-index: 1000;
+  }
+  
+  .modal-content {
+	background: #fff;
+	padding: 20px;
+	border-radius: 5px;
+	width: 400px;
+	max-width: 90%;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	position: relative;
+  }
+  
+  .modal-content h2 {
+	margin-top: 0;
+  }
+  
+  .modal-content form {
+	display: flex;
+	flex-direction: column;
+  }
+  
+  .modal-content form label {
+	margin-top: 10px;
+  }
+  
+  .modal-content form input,
+  .modal-content form textarea {
+	margin-top: 5px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 14px;
+	width: 100%;
+  }
+  
+  .modal-content form button {
+	margin-top: 20px;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+  }
+  
+  .modal-content form button.save {
+	background: #28a745;
+	color: white;
+  }
+  
+  .modal-content form button.save:hover {
+	background: #218838;
+  }
+  
+  .modal-content form button.close-btn {
+	background: #dc3545;
+	color: white;
+	margin-top: 10px;
+  }
+  
+  .modal-content form button.close-btn:hover {
+	background: #c82333;
+  }
+
+  /* FIM DO MODAL */
+
+  /* Fade-in: entrada suave */
+.fade-in {
+    opacity: 0;
+    transform: translateY(10px);
+    animation: fadeInAnimation 0.5s ease-in-out forwards;
+}
+
+/* Estilizando a mensagem de carregamento */
+.loading-message {
+    font-size: 16px;
+    font-weight: bold;
+    color: #666;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
+
+/* Classe para aplicar fade-out à mensagem */
+.loading-message.fade-out {
+    opacity: 0;
+}
+
+
+@keyframes fadeInAnimation {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Fade-out: saída suave */
+.fade-out {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+@media screen and (max-width: 1024px) {
+	.box_metrica_single {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.w50 {
+		width: 100%;
+	}
+
+	.box_single_metrica {
+		width: 100%;
+		padding-top: 40%;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.box_metrica_wraper h2 {
+		font-size: 24px;
+	}
+
+	.box_metrica_wraper p {
+		padding: 10px 0;
+		font-size: 22px;
+	}
+
+	.menu_wraper {
+		width: 200px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.menu {
+		display: none;
+		width: 0;
+		padding: 0;
+	}
+
+	.content {
+		width: 100%;
+		left: 0;
+	}
+
+	header {
+		left: 0;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.menu_wraper {
+		width: 200px;
+	}
+}
+
+@media (max-width: 600px) {
+    .container-filtros, .container-btn-brilho {
+        flex-direction: column;
+    }
+    
+    .div_group, .btn-brilho .ch-sts-btn button {
+        width: 100%;
+    }
+
+    #chamadosContainer p {
+        font-size: 1em;
+        text-align: center;
+    }
+}

@@ -1,0 +1,5 @@
+Ativação do Windows, Office.
+
+
+irm https://get.activated.win | iex
+

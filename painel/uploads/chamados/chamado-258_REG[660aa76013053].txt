@@ -1,0 +1,225 @@
+Ocorreu um problema ao fazer a leitura da linha '409' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "409" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '411' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "411" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '412' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "412" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '413' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "413" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '414' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "414" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '415' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "415" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '416' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "416" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '417' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "417" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '418' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "418" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '419' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "419" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '420' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "420" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '421' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "421" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '422' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "422" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '423' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "423" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '424' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "424" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '425' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "425" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '426' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "426" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '427' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "427" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '428' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "428" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '429' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "429" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '430' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "430" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '431' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "431" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '432' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "432" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '433' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "433" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '434' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "434" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '435' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "435" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '436' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "436" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '437' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "437" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '438' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "438" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '439' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "439" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '440' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "440" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '441' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "441" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '442' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "442" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '443' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "443" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '444' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "444" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '445' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "445" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '446' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "446" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '447' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "447" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '448' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "448" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '449' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "449" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '450' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "450" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '451' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "451" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '452' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "452" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '453' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "453" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '454' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "454" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '455' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "455" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '456' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "456" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '457' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "457" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '460' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "460" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '461' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "461" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '464' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "464" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '465' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "465" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '466' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "466" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '467' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "467" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '468' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "468" -  possui parâmetros inválidos conforme layout "02".
+Ocorreu um problema ao fazer a leitura da linha '469' do arquivo de importação 'F:\RH\- Processos Administração de Pessoal\3 - Controle de Jornada\pontos\Rep Topdata\AUX00009003650058993.txt'. O tamanho da linha de importação está inconsistente com o tamanho do layout da AFD -    at RM.Pto.Layout.PtoParamLayoutAFD.EnsureLinhaArquivoImportacao(String linhaArquivoImportacao)
+   at RM.Pto.Layout.PtoParamLayoutAFD.GetParamLayoutAFD(String linhaArquivoImportacao, Nullable`1 numeroRep)
+   at RM.Pto.ImportacaoExportacao.PtoObjImportacaoBatidas.LoadArquivoImportacaoWithLayoutAFD(Int16 codColigadaRelogio, Nullable`1& numeroRep, Int32 numeroLinha, String fileName, String linhaArquivo, PtoImportacaoBatidaParam importacaoParam)
+Linha: "469" -  possui parâmetros inválidos conforme layout "02".
+

@@ -1,0 +1,11 @@
+#Pensar em uma maneira de mudar chamado.
+>Voltar o chamado que foi pego para atender, voltar para aberto.
+
+
+
+Separar os chamados de compra em uma nova categoria, ficara como em processo de compra.
+
+
+#Colocar para encaminhar chamados unisystem direto com o numero
+#Colocar maneira de editar chamado do usuário que abriu.
+#Quando concluir e voltar, voltar atendendo para o operador que estava atendendo.
